@@ -1,0 +1,5 @@
+C:\dev\DapperDB\DapperDatabase\bin\Debug\DapperDatabase.dacpac
+C:\dev\DapperDB\DapperDatabase\bin\Debug\DapperDatabase.dll
+C:\dev\DapperDB\DapperDatabase\bin\Debug\DapperDatabase.pdb
+C:\dev\DapperDB\DapperDatabase\obj\Debug\DapperDatabase.dll
+C:\dev\DapperDB\DapperDatabase\obj\Debug\DapperDatabase.pdb
